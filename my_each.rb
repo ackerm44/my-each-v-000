@@ -9,5 +9,5 @@ def my_each(array)
 end
 
 my_each(['hi', 'hello', 'bye', 'goodbye']) do |word|
-  puts word
+   word
 end
